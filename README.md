@@ -1,6 +1,7 @@
 # cgat
 
-创建快速话术插件
+  创建快速话术插件
+
 ## Project setup
 ```
 npm install
