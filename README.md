@@ -1,5 +1,6 @@
 # cgat
 
+创建快速话术插件
 ## Project setup
 ```
 npm install
@@ -20,5 +21,3 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
